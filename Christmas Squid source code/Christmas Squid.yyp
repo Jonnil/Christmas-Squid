@@ -1,8 +1,17 @@
 {
   "resources": [
+    {"id":{"name":"spr_tileset_stone","path":"sprites/spr_tileset_stone/spr_tileset_stone.yy",},"order":5,},
+    {"id":{"name":"spr_tileset_sand","path":"sprites/spr_tileset_sand/spr_tileset_sand.yy",},"order":3,},
     {"id":{"name":"spr_player_stand","path":"sprites/spr_player_stand/spr_player_stand.yy",},"order":0,},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":2,},
+    {"id":{"name":"obj_seaweed","path":"objects/obj_seaweed/obj_seaweed.yy",},"order":5,},
     {"id":{"name":"spr_hat","path":"sprites/spr_hat/spr_hat.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"obj_bubble","path":"objects/obj_bubble/obj_bubble.yy",},"order":1,},
+    {"id":{"name":"spr_seaweed","path":"sprites/spr_seaweed/spr_seaweed.yy",},"order":4,},
+    {"id":{"name":"spr_bubble","path":"sprites/spr_bubble/spr_bubble.yy",},"order":2,},
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":4,},
+    {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
