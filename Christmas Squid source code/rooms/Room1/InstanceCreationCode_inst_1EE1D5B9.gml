@@ -1,0 +1,1 @@
+hat_sprite_inside_present = spr_hat_santa;

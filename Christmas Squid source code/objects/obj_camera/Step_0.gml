@@ -31,3 +31,8 @@ else
 	x = instance_nearest(x, y, obj_player).x;
 	y = instance_nearest(x, y, obj_player).y;
 }
+
+#region /*Deactivate instances outside view*/
+instance_activate_all();
+instance_deactivate_region(camera_get_view_x(view_camera[view_current]) - 32, camera_get_view_y(view_camera[view_current]) - 32, camera_get_view_x(view_camera[view_current]) + camera_get_view_width(view_camera[view_current]) + 32, camera_get_view_y(view_camera[view_current]) + camera_get_view_height(view_camera[view_current]) + 32, false, true);
+#endregion /*Deactivate instances outside view END*/

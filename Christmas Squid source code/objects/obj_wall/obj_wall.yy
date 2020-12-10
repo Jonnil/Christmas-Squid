@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_tileset_sand",
-    "path": "sprites/spr_tileset_sand/spr_tileset_sand.yy",
+    "name": "spr_wall",
+    "path": "sprites/spr_wall/spr_wall.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Don't use in level editor",
+    "path": "folders/Objects/Don't use in level editor.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_wall",

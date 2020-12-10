@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Don't use in level editor",
+    "path": "folders/Objects/Don't use in level editor.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_bubble",
