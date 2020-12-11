@@ -114,7 +114,7 @@ gravity_direction = 270;
 image_speed = speed / 10;
 
 #region /*Create bubbles when moving*/
-if (fps >= 60)
+if (fps >= 30)
 and(random(10) >= 9)
 and(speed > 1)
 {
